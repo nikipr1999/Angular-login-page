@@ -1,4 +1,7 @@
-# CrudApp
+# Angular login app
+
+![image](https://user-images.githubusercontent.com/44407046/120973184-3e546800-c78c-11eb-84e9-bfa15af3ebce.png)
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.0.3.
 
